@@ -1,0 +1,5 @@
+﻿  函数重载的注意事项.cpp
+C:\Users\Lace\source\repos\project2\project2\函数重载的注意事项.cpp(17,6): error C2084: 函数“void func2(int,int)”已有主体
+      C:\Users\Lace\source\repos\project2\project2\函数重载的注意事项.cpp(14,6):
+      参见“func2”的前一个定义
+  
